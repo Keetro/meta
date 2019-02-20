@@ -8,8 +8,7 @@ To help problem solvers be recognized as subject matter experts through creative
 
 # Suggested Communities
 
-* *Original and curated articles on Data Analytics/Science/Engineering and AI authored by practitioners*  (e.g. community #1)
-* [Suggestions…](https://github.com/Keetro/keetro.org-main-website/issues)
+1. [Publishing Communities](https://github.com/Keetro/meta/issues/1)
 
 # Why?
 
