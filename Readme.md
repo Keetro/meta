@@ -6,9 +6,10 @@
 
 To help problem solvers be recognized as subject matter experts through creative use of media and publishing applications while delivering knowledge and answers to non-member participants in a most effective way
 
-# Suggested Communities
+# Suggestions
 
 1. [Publishing Communities](https://github.com/Keetro/meta/issues/1)
+2. 
 
 # Why?
 
