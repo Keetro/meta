@@ -4067,6 +4067,10 @@ h3 strong,
 .h3 strong {
   font-weight: 400;
 }
+.testimonial__body > p {
+    /* font-family: 'Merriweather'; */
+    font-size: 1em;
+}
 blockquote {
   font-family: 'Merriweather', serif;
   font-style: italic;
