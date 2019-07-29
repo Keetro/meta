@@ -2983,7 +2983,7 @@ a {
   }
   .imageblock .imageblock__content {
     position: relative;
-    min-height: 18.57142857em;
+    min-height: 35.57142857em;
   }
   .imageblock > .container,
   .imageblock > div[class*='col-']:not(.imageblock__content) {
