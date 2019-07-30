@@ -9395,3 +9395,7 @@ footer.footer-7 {
 .list-inline  > li > a{
   font-size: 0.8em;
 }
+
+.pos-vertical-center.clearfix.row.no-gutters.justify-content-center {
+    padding-left: 3em;
+}
