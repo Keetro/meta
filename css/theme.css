@@ -3465,8 +3465,8 @@ footer.space--xs {
 }
 section.space--sm,
 footer.space--sm {
-  padding-top: 4.95238095em;
-  padding-bottom: 4.95238095em;
+  padding-top: 2.95238095em;
+  padding-bottom: 2.95238095em;
 }
 section.space--md,
 footer.space--md {
@@ -9385,4 +9385,13 @@ footer.footer-7 {
     margin-left: auto;
     margin-right: auto;
   }
+}
+.bar__module > .menu-horizontal > li > a {
+  font-size: 0.7em;
+}
+.bar {
+    padding: 0.85714286em 0;
+}
+.list-inline  > li > a{
+  font-size: 0.8em;
 }
