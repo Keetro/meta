@@ -1054,7 +1054,7 @@ div[data-overlay] ul {
   font-size: 2.35714286em;
 }
 .icon--lg {
-  font-size: 5.57142857em;
+  font-size: 3.57142857em;
 }
 /**! 08. Lists **/
 ul:last-child {
@@ -5980,8 +5980,10 @@ p .material-icons:first-child {
 .bg--primary .boxed:not(.imagebg) .h3,
 .bg--primary .boxed:not(.imagebg) .h4,
 .bg--primary .boxed:not(.imagebg) .h5,
-.bg--primary .boxed:not(.imagebg) .h6,
-.bg--primary .boxed:not(.imagebg) i {
+.bg--primary .boxed:not(.imagebg) .h6
+/*,
+.bg--primary .boxed:not(.imagebg) i */
+{
   color: #252525;
 }
 .bg--primary .boxed:not(.imagebg) a {
@@ -9398,4 +9400,7 @@ footer.footer-7 {
 
 .pos-vertical-center.clearfix.row.no-gutters.justify-content-center {
     padding-left: 3em;
+}
+.bg--primary .boxed:not(.imagebg) i  {
+  color: #666666;
 }
