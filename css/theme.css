@@ -2753,7 +2753,7 @@ a {
   color: #e23636;
 }
 .bg--dark {
-  background: #252525;
+  background: #000000;
 }
 .bg--dark:not(.nav-bar):not(.bar) {
   color: #ffffff;
