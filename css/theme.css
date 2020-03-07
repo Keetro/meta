@@ -953,8 +953,8 @@ div[data-overlay] ul {
 }
 .btn--primary,
 .btn--primary:visited {
-  background: #4a90e2;
-  border-color: #4a90e2;
+    background: #238b53;
+  border-color: #238b53;
 }
 .btn--primary .btn__text,
 .btn--primary:visited .btn__text {
@@ -965,10 +965,10 @@ div[data-overlay] ul {
   color: #fff;
 }
 .btn--primary:hover {
-  background: #609de6;
+  background: #289f5f;
 }
 .btn--primary:active {
-  background: #3483de;
+  background: #1e7747;
 }
 .btn--primary-1,
 .btn--primary-1:visited {
